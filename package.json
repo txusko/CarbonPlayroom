@@ -2,6 +2,7 @@
   "name": "playroom-pioneer-friday",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://txusko.github.io/CarbonPlayroom",
   "dependencies": {
     "carbon-react": "7.0.1",
     "core-js": "2",
@@ -29,14 +30,11 @@
   },
   "devDependencies": {
     "css-loader": "^2.1.1",
-    "eslint": "^6.1.0",
-    "eslint-plugin-react": "^7.14.3",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
     "node-sass": "^4.11.0",
     "playroom": "^0.9.1",
     "sass-loader": "^7.1.0",
     "style": "0.0.3",
-    "style-loader": "^0.23.1",
-    "webpack": "^4.30.0"
+    "style-loader": "^0.23.1"
   }
 }
